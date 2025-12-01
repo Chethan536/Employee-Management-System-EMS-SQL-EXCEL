@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Job_ID</Data></Cell>
+			<Cell><Data ss:Type="String">JobDept</Data></Cell>
+			<Cell><Data ss:Type="String">Name</Data></Cell>
+			<Cell><Data ss:Type="String">Description</Data></Cell>
+			<Cell><Data ss:Type="String">SalaryRange</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Operations Engineer</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for engineer duties in the operations department.</Data></Cell>
+			<Cell><Data ss:Type="String">$70889 - $91502</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Finance Consultant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for consultant duties in the finance department.</Data></Cell>
+			<Cell><Data ss:Type="String">$45757 - $102274</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Coordinator</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for coordinator duties in the IT department.</Data></Cell>
+			<Cell><Data ss:Type="String">$32637 - $118326</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing Engineer</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for engineer duties in the marketing department.</Data></Cell>
+			<Cell><Data ss:Type="String">$48936 - $145464</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Finance Specialist</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for specialist duties in the finance department.</Data></Cell>
+			<Cell><Data ss:Type="String">$67562 - $99403</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering Executive</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for executive duties in the engineering department.</Data></Cell>
+			<Cell><Data ss:Type="String">$66000 - $125000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Sales</Data></Cell>
+			<Cell><Data ss:Type="String">Sales Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing the sales department.</Data></Cell>
+			<Cell><Data ss:Type="String">$75000 - $130000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Analyst</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for analyzing IT systems in the IT department.</Data></Cell>
+			<Cell><Data ss:Type="String">$48000 - $92000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">HR Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing the human resources department.</Data></Cell>
+			<Cell><Data ss:Type="String">$68000 - $105000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Operations Specialist</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for specialist duties in the operations department.</Data></Cell>
+			<Cell><Data ss:Type="String">$54000 - $90000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing Coordinator</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for coordinating marketing campaigns.</Data></Cell>
+			<Cell><Data ss:Type="String">$55000 - $95000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Legal</Data></Cell>
+			<Cell><Data ss:Type="String">Legal Advisor</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for advising on legal matters in the organization.</Data></Cell>
+			<Cell><Data ss:Type="String">$95000 - $150000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Financial Analyst</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for analyzing financial data and trends.</Data></Cell>
+			<Cell><Data ss:Type="String">$58000 - $120000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Support Specialist</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for providing support for IT systems.</Data></Cell>
+			<Cell><Data ss:Type="String">$40000 - $75000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering Technician</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for technical support in the engineering department.</Data></Cell>
+			<Cell><Data ss:Type="String">$52000 - $85000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing Executive</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for executive duties in the marketing department.</Data></Cell>
+			<Cell><Data ss:Type="String">$60000 - $110000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Sales</Data></Cell>
+			<Cell><Data ss:Type="String">Sales Executive</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for executing sales strategies and goals.</Data></Cell>
+			<Cell><Data ss:Type="String">$45000 - $95000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">HR Executive</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for executing HR policies and procedures.</Data></Cell>
+			<Cell><Data ss:Type="String">$50000 - $95000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Operations Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing operations and process improvements.</Data></Cell>
+			<Cell><Data ss:Type="String">$85000 - $135000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Legal</Data></Cell>
+			<Cell><Data ss:Type="String">Legal Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing legal matters and team.</Data></Cell>
+			<Cell><Data ss:Type="String">$115000 - $180000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Finance Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for overseeing the financial department.</Data></Cell>
+			<Cell><Data ss:Type="String">$95000 - $140000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing IT projects and teams.</Data></Cell>
+			<Cell><Data ss:Type="String">$90000 - $145000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Engineer</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for senior engineering duties.</Data></Cell>
+			<Cell><Data ss:Type="String">$80000 - $130000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">Sales</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Sales Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing the senior sales team.</Data></Cell>
+			<Cell><Data ss:Type="String">$85000 - $145000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">Senior HR Specialist</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for overseeing HR functions and policies.</Data></Cell>
+			<Cell><Data ss:Type="String">$70000 - $120000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Operations Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing senior operations processes.</Data></Cell>
+			<Cell><Data ss:Type="String">$95000 - $150000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Marketing Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for senior marketing campaigns and strategies.</Data></Cell>
+			<Cell><Data ss:Type="String">$90000 - $150000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">Senior IT Consultant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for consulting on senior IT projects.</Data></Cell>
+			<Cell><Data ss:Type="String">$100000 - $160000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">Legal</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Legal Consultant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for providing senior legal consultation.</Data></Cell>
+			<Cell><Data ss:Type="String">$120000 - $180000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Finance Analyst</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for senior financial analysis and reporting.</Data></Cell>
+			<Cell><Data ss:Type="String">$105000 - $160000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Engineering Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing senior engineering teams.</Data></Cell>
+			<Cell><Data ss:Type="String">$110000 - $170000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">Sales</Data></Cell>
+			<Cell><Data ss:Type="String">Senior Sales Executive</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for senior sales strategies and client management.</Data></Cell>
+			<Cell><Data ss:Type="String">$95000 - $160000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">HR Director</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for overseeing all HR operations.</Data></Cell>
+			<Cell><Data ss:Type="String">$120000 - $180000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Operations Director</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing all operational processes.</Data></Cell>
+			<Cell><Data ss:Type="String">$125000 - $200000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing Director</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for overseeing marketing strategies and teams.</Data></Cell>
+			<Cell><Data ss:Type="String">$130000 - $210000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Director</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for overseeing IT department and projects.</Data></Cell>
+			<Cell><Data ss:Type="String">$140000 - $220000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Finance Director</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for directing all financial activities.</Data></Cell>
+			<Cell><Data ss:Type="String">$140000 - $250000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering Director</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for directing engineering projects and teams.</Data></Cell>
+			<Cell><Data ss:Type="String">$150000 - $250000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Sales</Data></Cell>
+			<Cell><Data ss:Type="String">Sales Director</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for directing all sales operations.</Data></Cell>
+			<Cell><Data ss:Type="String">$150000 - $230000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">HR Specialist</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for supporting HR processes and employee relations.</Data></Cell>
+			<Cell><Data ss:Type="String">$60000 - $110000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Operations Executive</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for executive duties in operations.</Data></Cell>
+			<Cell><Data ss:Type="String">$55000 - $95000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing Specialist</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for handling marketing campaigns.</Data></Cell>
+			<Cell><Data ss:Type="String">$48000 - $85000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Finance Clerk</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for clerical work in the finance department.</Data></Cell>
+			<Cell><Data ss:Type="String">$35000 - $60000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Technician</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for providing IT support and maintenance.</Data></Cell>
+			<Cell><Data ss:Type="String">$37000 - $65000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering Assistant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for assisting engineers with technical work.</Data></Cell>
+			<Cell><Data ss:Type="String">$38000 - $70000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="String">Sales</Data></Cell>
+			<Cell><Data ss:Type="String">Sales Clerk</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for clerical duties in the sales department.</Data></Cell>
+			<Cell><Data ss:Type="String">$32000 - $60000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing Assistant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for assisting in marketing campaigns.</Data></Cell>
+			<Cell><Data ss:Type="String">$35000 - $65000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">HR Assistant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for assisting in HR operations and paperwork.</Data></Cell>
+			<Cell><Data ss:Type="String">$33000 - $60000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Operations Clerk</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for clerical duties in operations.</Data></Cell>
+			<Cell><Data ss:Type="String">$31000 - $55000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="String">Legal</Data></Cell>
+			<Cell><Data ss:Type="String">Legal Assistant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for assisting in legal matters and paperwork.</Data></Cell>
+			<Cell><Data ss:Type="String">$38000 - $75000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Finance Assistant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for assisting with financial documentation.</Data></Cell>
+			<Cell><Data ss:Type="String">$32000 - $60000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Support Technician</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for supporting IT systems and infrastructure.</Data></Cell>
+			<Cell><Data ss:Type="String">$35000 - $75000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering</Data></Cell>
+			<Cell><Data ss:Type="String">Engineering Coordinator</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for coordinating engineering tasks and projects.</Data></Cell>
+			<Cell><Data ss:Type="String">$46000 - $85000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+			<Cell><Data ss:Type="String">Sales</Data></Cell>
+			<Cell><Data ss:Type="String">Sales Assistant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for assisting with sales processes and paperwork.</Data></Cell>
+			<Cell><Data ss:Type="String">$30000 - $50000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing</Data></Cell>
+			<Cell><Data ss:Type="String">Marketing Coordinator</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for coordinating marketing events.</Data></Cell>
+			<Cell><Data ss:Type="String">$44000 - $80000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">HR Coordinator</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for coordinating HR initiatives and procedures.</Data></Cell>
+			<Cell><Data ss:Type="String">$47000 - $85000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+			<Cell><Data ss:Type="String">Operations</Data></Cell>
+			<Cell><Data ss:Type="String">Operations Assistant</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for assisting with operations management.</Data></Cell>
+			<Cell><Data ss:Type="String">$43000 - $70000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+			<Cell><Data ss:Type="String">Legal</Data></Cell>
+			<Cell><Data ss:Type="String">Legal Coordinator</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for coordinating legal team activities.</Data></Cell>
+			<Cell><Data ss:Type="String">$48000 - $85000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+			<Cell><Data ss:Type="String">Finance</Data></Cell>
+			<Cell><Data ss:Type="String">Finance Coordinator</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for coordinating finance team activities.</Data></Cell>
+			<Cell><Data ss:Type="String">$47000 - $80000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+			<Cell><Data ss:Type="String">IT</Data></Cell>
+			<Cell><Data ss:Type="String">IT Manager</Data></Cell>
+			<Cell><Data ss:Type="String">Responsible for managing IT infrastructure and team.</Data></Cell>
+			<Cell><Data ss:Type="String">$120000 - $180000</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
